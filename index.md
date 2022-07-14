@@ -2,7 +2,7 @@
 layout: page
 title: Researcher (Mechanical Engineering)
 subtitle: Mehcanical Design Lab. with Advanced Design, KAIST
-cover-img: /assets/img/JM_pre.jpeg
+cover-img: /assets/img/JM_pre.jpg
 ---
 
 <br/>
@@ -23,7 +23,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
-Office: 202, Pilot plat building,  291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea 34141
+Affiliation: Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+Office: 202, Pilot plat building, Mechanical Engineering building 202ho, 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea 34141
 Email: jaemoon.jeong[at]kaist.ac.kr or j2m112@naver.com
 ```
