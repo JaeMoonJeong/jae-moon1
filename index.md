@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Researcher (Mechanical Engineering)
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: Mehcanical Design Lab. with Advanced Design, KAIST
 cover-img: /assets/img/JM_pre.jpeg
 ---
 
