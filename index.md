@@ -2,7 +2,7 @@
 layout: page
 title: Researcher (Mechanical Engineering)
 subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/JM.jpg
+cover-img: /assets/img/JM_pre.jpeg
 ---
 
 <br/>
