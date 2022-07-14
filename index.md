@@ -24,7 +24,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+Affiliation: Korea Advanced Institute of Science and Technology (KAIST)
 Office: 202, Pilot plat building, Mechanical Engineering building 202ho, 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea 34141
 Email: jaemoon.jeong[at]kaist.ac.kr or j2m112@naver.com
 ```
