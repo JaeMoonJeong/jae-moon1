@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mechanical Engineer
+title: Mech. Engineer
 subtitle: Mehcanical Design Lab. with Advanced Materials (MDAM), KAIST
-cover-img: /assets/img/JM_pre.jpg
+cover-img: /assets/img/JMgo.jpg
 ---
 
 <br/>
