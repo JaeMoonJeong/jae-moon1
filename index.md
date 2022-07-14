@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Researcher (Mechanical Engineering)
+title: Mechanical Engineer
 subtitle: Mehcanical Design Lab. with Advanced Design, KAIST
 cover-img: /assets/img/JM_pre.jpg
 ---
