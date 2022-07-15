@@ -10,14 +10,13 @@ cover-img: /assets/img/jm.jpg
 ## About me
 
 **Jae-Moon Jeong** is a **_Mechanical researcher_** of [KAIST](https://www.kaist.ac.kr/kr/) (Korea Advanced Institute of Science and Technology). 
-He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+His detailed research topics can be divided into composite material manufacturing processes, energy systems that use composite materials.
+He have published a total of 3 SCI papers, which were in JCR’s Top 10% journals on composite materials and related fields. 
+He also registered 7 domestic patents and 1 international patents.
+His research has been presented in several conferences and organizations.
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
-
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
-
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
+He has a broad academic background in composite materials, energy storage system. 
+In the energy field, research has focused on designing a carbon electrode, which is one of the most important components in a redox flow battery. We developed a coating process that can prevent damage to the surface of the carbon felt electrode material and increase the activation site during the heat treatment process that dramatically improves the energy efficiency to increase the energy efficiency of the redox flow battery. Further, we suggested a “flow through” electrode model that maximizes the contact area between the electrolyte and electrode by designing a pattern on a carbon paper to solve the high defect rate of carbon felt; this is the conventional electrode material. To the best of our knowledge, we introduced the “pseudo-channel” effect related to the electrolyte flow in the electrode for the first time. This effect simultaneously improves energy and system efficiencies. This technology has pending patent applications abroad and gained considerable research interest in related industries and is in the process of transferring technology. 
 
 He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
 
