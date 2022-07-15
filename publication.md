@@ -22,7 +22,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 ### Conference Papers
 
-#### International
 
 1.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks on carbon felt for the high performance of vanadium redox flow batteries,” International Conference on Precision Engineering and Sustainable Manufacturing 2022(PRESM2022), Jeju, Korea, Jul. 20-22, 2022
 
