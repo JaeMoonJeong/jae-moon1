@@ -58,18 +58,23 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 
 # Patents
+### US
+1. Electrodes for Vanadium Redox Flow Battery and Method for Manufacturing same”, US Patent Pending No. 17503552
 
-１.	_“Sandwich Structure SMPC Bending Actuator”_, Korea Patent Pending No. 10-2021-0111482, 2021
+2. “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
 
-２.	_“Carbon Electrode Structure for a Vanadium Redox Flow Battery with a Pseudo-channel Effect and Manufacturing Thereof”_, Korea Patent Pending No. 10-2021-0002760, 2021
+### South Korea
+1. _“Sandwich Structure SMPC Bending Actuator”_, Korea Patent Pending No. 10-2021-0111482, 2021
 
-３.	_“Electrode for Vanadium Redox Flow Battery and Manufacturing method for the same”_, Korea Patent Pending No.10-2021-0136963, 2021.
+2. _“Carbon Electrode Structure for a Vanadium Redox Flow Battery with a Pseudo-channel Effect and Manufacturing Thereof”_, Korea Patent Pending No. 10-2021-0002760, 2021
 
-４.	_“Plastic resin composite comprising metal oxide nanorod and pretreating method of the same”_, Korea Patent Pending No. 10-2021-0026557, 2021
+3. _“Electrode for Vanadium Redox Flow Battery and Manufacturing method for the same”_, Korea Patent Pending No.10-2021-0136963, 2021.
 
-５.	_“Plastic resin composite comprising silane and pretreating method of the same”_ No. 10-2021-0026558, 2021
+4. _“Plastic resin composite comprising metal oxide nanorod and pretreating method of the same”_, Korea Patent Pending No. 10-2021-0026557, 2021
 
-６.	_“Bipolar plate-electrode integrated structure for vanadium redox flow battery and manufacturing method thereof”_, Korea Patent Pending No. 10-2021-0089041, 2021
+5. _“Plastic resin composite comprising silane and pretreating method of the same”_ Korea Patent Pending No. 10-2021-0026558, 2021
 
-７.	_“Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”_, Korea Patent Pending No. 10-2021-0048882, 2021
+6. _“Bipolar plate-electrode integrated structure for vanadium redox flow battery and manufacturing method thereof”_, Korea Patent Pending No. 10-2021-0089041, 2021
+
+7. _“Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”_, Korea Patent Pending No. 10-2021-0048882, 2021
 
