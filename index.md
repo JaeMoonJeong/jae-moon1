@@ -73,7 +73,7 @@ body .no-padding{
   <div class="container carousel-inner no-padding">
     <div class="carousel-item active">
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/ice-hockey.png" width="16%" height="16%"
+        <img src="/assets/img/bike.jpeg" width="16%" height="16%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>    
@@ -148,10 +148,6 @@ body .no-padding{
   </a>
 </div>
 
-<br><br>
-For more information, please refer to my [Curriculum Vitae (CV)](https://drive.google.com/file/d/1yOCMIUSJbfoHxHQOwy9GPyodyT-d4u1b/view?usp=sharing). <br> <br>
-<!-- </span> -->
-  
 ## Contact
 
 ```
