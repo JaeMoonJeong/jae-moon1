@@ -78,39 +78,39 @@ body .no-padding{
      style="float: center;"/>
       </div>    
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/exhibition.png" width="22%" height="22%"
+        <img src="/assets/img/sea.jpeg" width="22%" height="22%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
-       <img src="/assets/img/noodle.png" width="13%" height="13%"
+       <img src="/assets/img/lake.jpeg" width="13%" height="13%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/cafe.png" width="19%" height="19%"
+        <img src="/assets/img/piano.jpeg" width="19%" height="19%"
      alt="Markdown Monster icon"
      style="float: center;"/> 
       </div>   
     </div>
     <div class="carousel-item">
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/whisky.jpeg" width="20%" height="20%"
+        <img src="/assets/img/cafe.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>    
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/spagetti.jpeg" width="20%" height="20%"
+        <img src="/assets/img/snowboarding.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/park.jpeg" width="20%" height="20%"
+        <img src="/assets/img/dj.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
-       <img src="/assets/img/laptob.jpeg" width="20%" height="20%"
+       <img src="/assets/img/swiss.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>  
