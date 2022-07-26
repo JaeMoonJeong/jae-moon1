@@ -73,7 +73,7 @@ body .no-padding{
   <div class="container carousel-inner no-padding">
     <div class="carousel-item active">
       <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/bike.jpeg" width="16%" height="16%"
+        <img src="/assets/img/bike.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>    
@@ -83,7 +83,7 @@ body .no-padding{
      style="float: center;"/>
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
-       <img src="/assets/img/lake.jpeg" width="13%" height="13%"
+       <img src="/assets/img/lake.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
