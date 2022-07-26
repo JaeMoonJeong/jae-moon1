@@ -37,9 +37,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "jaemoon.jeong@kaist.ac.kr"
-  facebook: "https://github.com/jaemoonjeong"
-  github: "https://github.com/jaemoonjeong"
-  linkedin: "https://www.linkedin.com/in/jae-moon-jeong-a620541a3"
+  facebook: https://github.com/jaemoonjeong
+  github: https://github.com/jaemoonjeong
+  linkedin: https://www.linkedin.com/in/jae-moon-jeong-a620541a3
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
