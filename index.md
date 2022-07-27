@@ -21,14 +21,16 @@ He developed a coating process that can prevent damage to the surface of the car
 
 In his spare time, I love to play a pinao and do fun stuffs;
 
-<span style="
-             font-style: ; 
-             font-size: 1em;
-             line-height: 0.4em; 
-             color: black;
-             font-family: arial;margin:0px;
-             padding:0px;
-             ">
+<span
+style="
+font-style: ; 
+font-size: 1em;
+line-height: 0.4em; 
+color: black;
+font-family: arial;
+margin:0px;
+padding:0px;
+">
 
 <style>
 .col-md-3{
@@ -67,6 +69,7 @@ body .no-padding{
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
   </ul> -->
+
   
   <!-- The slideshow -->
   <div class="container carousel-inner no-padding">
@@ -110,28 +113,6 @@ body .no-padding{
       </div>   
       <div class="col-xs-3 col-sm-3 col-md-3">
        <img src="/assets/img/swiss.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>  
-    </div>
-    <div class="carousel-item">
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/sophie.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>    
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/graduation.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/lotte.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/laptob2.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>  
