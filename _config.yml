@@ -14,8 +14,8 @@ author: Jae-Moon Jeong
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "blog"
-  Project: "project"
+#  Blog: "blog"
+#  Project: "project"
   GitHub: "https://github.com/jaemoonjeong"
   Google Scholar: "https://scholar.google.com/citations?user=X4LqpWUAAAAJ&hl=ko&oi=ao"
 
