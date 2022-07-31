@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mech. Engineer
+title: Jae-Moon Jeong
 subtitle: Mehcanical Design Lab. with Advanced Materials (MDAM), KAIST
 cover-img: /assets/img/jm.jpg
 ---
