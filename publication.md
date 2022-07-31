@@ -77,3 +77,4 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 7. _“Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”_, Korea Patent Pending No. 10-2021-0048882, 2021
 
+8. _"Porous electrodes for vanadium redox flow battery with gradient in compressive stiffness and manufacturing thereof"_, Korean Patent Pending No. 10-2022-0089186
