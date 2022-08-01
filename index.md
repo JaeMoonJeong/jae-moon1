@@ -24,93 +24,9 @@ In his spare time, I love traveling and playing a pinao and do fun stuffs;
 
 <br/>
 
-<center><img src="/assets/img/12312.png" width="100%" height="100%"></center>
+<center><img src="/assets/img/123111.png" width="100%" height="100%"></center>
 
 <br/>
-
-
-![](assets/img/piano.jpeg width="20%" height="20%")
-/assets/img/bike.jpeg
-/assets/img/lake.jpeg
-/assets/img/sea.jpeg
-<span
-style="
-font-style: ; 
-font-size: 1em;
-line-height: 0.4em; 
-color: black;
-font-family: arial;
-margin:0px;
-padding:0px;
-">
-
-<style>
-.col-md-3{
-  display: inline-block;
-  margin-left:-4px;
-}
-.col-md-3 img{
-  width:90%;
-  height:auto;
-}
-body .carousel-indicators li{
-  background-color:;
-}
-body .carousel-indicators{
-  bottom: 0;
-}
-body .carousel-control-prev-icon,
-body .carousel-control-next-icon{
-  background-color:;
-}
-body .no-padding{
-  padding-left: 0;
-  padding-right: 0;
-   }
-</style>
-
-
-      
-
-      </div>    
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/sea.jpeg" width="22%" height="22%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>   
-
-    <div class="carousel-item">
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/cafe.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>    
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/snowboarding.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/dj.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-       <img src="/assets/img/swiss.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
-      </div>  
-    </div>
-  </div>
-  
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
 
 ## Contact
 
