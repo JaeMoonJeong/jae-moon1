@@ -21,8 +21,18 @@ He developed a coating process that can prevent damage to the surface of the car
 
 In his spare time, I love to play a pinao and do fun stuffs;
 
-![](assets/img/piano.jpeg)
 
+<br/>
+
+<center><img src="/assets/img/111.png" width="100%" height="100%"></center>
+
+<br/>
+
+
+![](assets/img/piano.jpeg width="20%" height="20%")
+/assets/img/bike.jpeg
+/assets/img/lake.jpeg
+/assets/img/sea.jpeg
 <span
 style="
 font-style: ; 
@@ -59,46 +69,16 @@ body .no-padding{
    }
 </style>
 
-        </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/piano.jpeg" width="19%" height="19%"
-     alt="Markdown Monster icon"
-     style="float: center;"/> 
-      </div>   
+
       
-<!-- !samjichang mis-localization problem occurs due to this part! -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>      
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<div id="demo" class="carousel slide" data-ride="carousel">
 
-  <!-- Indicators -->
-  <!-- <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-  </ul> -->
-
-  
-  <!-- The slideshow -->
-  <div class="container carousel-inner no-padding">
-    <div class="carousel-item active">
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/bike.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
       </div>    
       <div class="col-xs-3 col-sm-3 col-md-3">
         <img src="/assets/img/sea.jpeg" width="22%" height="22%"
      alt="Markdown Monster icon"
      style="float: center;"/>
       </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-       <img src="/assets/img/lake.jpeg" width="20%" height="20%"
-     alt="Markdown Monster icon"
-     style="float: center;"/>
 
-    </div>
     <div class="carousel-item">
       <div class="col-xs-3 col-sm-3 col-md-3">
         <img src="/assets/img/cafe.jpeg" width="20%" height="20%"
