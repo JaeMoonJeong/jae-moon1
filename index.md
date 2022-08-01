@@ -21,6 +21,8 @@ He developed a coating process that can prevent damage to the surface of the car
 
 In his spare time, I love to play a pinao and do fun stuffs;
 
+![](assets/img/piano.jpeg)
+
 <span
 style="
 font-style: ; 
