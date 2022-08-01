@@ -57,6 +57,13 @@ body .no-padding{
    }
 </style>
 
+        </div>   
+      <div class="col-xs-3 col-sm-3 col-md-3">
+        <img src="/assets/img/piano.jpeg" width="19%" height="19%"
+     alt="Markdown Monster icon"
+     style="float: center;"/> 
+      </div>   
+      
 <!-- !samjichang mis-localization problem occurs due to this part! -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>      
@@ -88,12 +95,7 @@ body .no-padding{
        <img src="/assets/img/lake.jpeg" width="20%" height="20%"
      alt="Markdown Monster icon"
      style="float: center;"/>
-      </div>   
-      <div class="col-xs-3 col-sm-3 col-md-3">
-        <img src="/assets/img/piano.jpeg" width="19%" height="19%"
-     alt="Markdown Monster icon"
-     style="float: center;"/> 
-      </div>   
+
     </div>
     <div class="carousel-item">
       <div class="col-xs-3 col-sm-3 col-md-3">
