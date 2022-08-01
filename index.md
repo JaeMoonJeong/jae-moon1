@@ -19,12 +19,12 @@ He has a academic background in composite materials, energy storage system.
 In the energy field, research has focused on designing a carbon electrode, which is one of the most important components in a redox flow battery. 
 He developed a coating process that can prevent damage to the surface of the carbon felt electrode material and increase the activation site during the heat treatment process that dramatically improves the energy efficiency to increase the energy efficiency of the redox flow battery. Further, we suggested a “flow through” electrode model that maximizes the contact area between the electrolyte and electrode by designing a pattern on a carbon paper to solve the high defect rate of carbon felt; this is the conventional electrode material. To the best of our knowledge, we introduced the “pseudo-channel” effect related to the electrolyte flow in the electrode for the first time. This effect simultaneously improves energy and system efficiencies. This technology has pending patent applications abroad and gained considerable research interest in related industries and is in the process of transferring technology. 
 
-In his spare time, I love to play a pinao and do fun stuffs;
+In his spare time, I love traveling and playing a pinao and do fun stuffs;
 
 
 <br/>
 
-<center><img src="/assets/img/1231.png" width="100%" height="100%"></center>
+<center><img src="/assets/img/12312.png" width="100%" height="100%"></center>
 
 <br/>
 
