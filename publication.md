@@ -27,13 +27,13 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 2.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks on carbon felt for the high performance of vanadium redox flow batteries,” International Conference on Precision Engineering and Sustainable Manufacturing 2022(PRESM2022), Jeju, Korea, Jul. 20-22, 2022
 
-3.	.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks on carbon felt for the high performance of vanadium redox flow batteries,” 20th European Conference on Composite Materials (ECCM20), Lausanne, Switchland, Jun. 26-30, 2022
+3.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks on carbon felt for the high performance of vanadium redox flow batteries,” 20th European Conference on Composite Materials (ECCM20), Lausanne, Switchland, Jun. 26-30, 2022
 
 4.	D. Kang, **J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Sandwich type shape memory polymer composite actuators to increase the recovery moment and deformability,” 20th European Conference on Composite Materials (ECCM20), Lausanne, Switchland, Jun. 26-30, 2022
 
 5.	**J.M. Jeong**, K.I. Jeong, D. Kang, and S.S. Kim, “Carbon Felt Electrodes for Vanadium Redox Flow Batteries Treated with Cobalt Metal-organic Frameworks Using Microwave Irradiation,” Korean Society of Precision Engineers (KSPE) 2022 Conference, Jeju, Korea, May. 11-13, 2022
 
-6.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks functionalized carbon felt electrodes for the high performance of vanadium redox flow batteries,” Korea Society of Mechanical Engineers (KSME) 2022 Spring Conference, Jeju, Korea, Jun. 22-24, 2021.
+6.	**J.M. Jeong**, K.I. Jeong, and S.S. Kim, “Cobalt metal-organic frameworks functionalized carbon felt electrodes for the high performance of vanadium redox flow batteries,” Korea Society of Mechanical Engineers (KSME) 2022 Spring Conference, Jeju, Korea, Jun. 22-24, 2022.
 
 7.	**J.M. Jeong**, D. Kang, K.l Jeong, and S.S. Kim, “Sandwich type shape memory polymer composite actuator to increase the recovery force,” Korea Society of Mechanical Engineers (KSME), Kwangju, Korea, Nov. 3-6, 2021.
 
