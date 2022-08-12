@@ -10,7 +10,7 @@ cover-img: /assets/img/jm.jpg
 ## About me
 
 **Jae-Moon Jeong** is a **_Mechanical Engineering (ME) researcher_** of [KAIST](https://www.kaist.ac.kr/kr/) (Korea Advanced Institute of Science and Technology). 
-His detailed research topics can be divided into composite material manufacturing processes, and energy systems that use composite materials.
+His detailed research topics can be divided into composite manufacturing processes, and energy systems that use composite materials.
 He have published a total of 3 SCI papers, which were in JCR’s Top 10% journals on composite materials and related fields. 
 He also registered 8 domestic patents and 2 international patents.
 His research has been presented in several conferences and organizations.
