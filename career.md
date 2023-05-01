@@ -7,24 +7,27 @@ title: Research Career
 
 # Education
 
-### Doctor of Philosophy - Ph.D. Candidate, Mechanical Engineering (2020.09 -)
+### Doctor of Philosophy - Ph.D. Candidate
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
+* Mechanical Engineering (2020.09 -)
   * PI - Prof. Seong Su Kim
   * [MDAM](https://mdam.kaist.ac.kr)
 
-### Doctor of Philosophy - Visiting Ph.D. Candidate, Aero/Astro (2022.08 - 2023.03)
+### Doctor of Philosophy - Visiting Ph.D. Candidate
 * Massachusetts Institute of Technology (MIT), United States
+* Aero/Astro (2022.08 - 2023.03)
   * PI - Prof. Brian L. Wardle
   * [NECSTLAB](https://mdam.kaist.ac.kr)
 
-### Master of Science - MS, Mechanical Engineering (2018.09 - 2020.02)
+### Master of Science - MS
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
+* Mechanical Engineering (2018.09 - 2020.02)
   * Thesis - “A study on Carbon Paper Electrode with Flow Channel to Enhance System Efficiency for Vanadium Redox Flow Battery”
   * PI - Prof. Seong Su Kim
 
-### Bachelor of Science - BS, Mechanical & Aerospace Engineering (2011.03 - 2018.02)
+### Bachelor of Science - BS, 
 * Korea Aerospace University (KAU), Goyang-si, Gyeonggi-do, Korea
-* Mechanical Engineering 
+* Mechanical & Aerospace Engineering (2011.03 - 2018.02)
   * Thesis - “Balancing Board - Attitude Control of Using PID Control Method”
   * PI - Prof. Sang Hyuk Park
 
