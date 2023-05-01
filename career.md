@@ -16,7 +16,7 @@ title: Research Career
 * Massachusetts Institute of Technology (MIT), United States
 * Aero/Astro (2022.08 - 2023.03)
   * PI - Prof. Brian L. Wardle
-  * [NECSTLAB](http://https://necstlab.mit.edu/)
+  * [NECSTLAB](http://necstlab.mit.edu/)
 
 ### Master of Science - MS
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
