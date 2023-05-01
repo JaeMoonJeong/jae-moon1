@@ -11,13 +11,12 @@ title: Research Career
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
 * Mechanical Engineering (2020.09 -)
   * PI - Prof. Seong Su Kim
-  * [MDAM](https://mdam.kaist.ac.kr)
-
+  * [MDAM](http://mdam.kaist.ac.kr)
 ### Doctor of Philosophy - Visiting Ph.D. Candidate
 * Massachusetts Institute of Technology (MIT), United States
 * Aero/Astro (2022.08 - 2023.03)
   * PI - Prof. Brian L. Wardle
-  * [NECSTLAB](https://mdam.kaist.ac.kr)
+  * [NECSTLAB](http://mdam.kaist.ac.kr)
 
 ### Master of Science - MS
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
