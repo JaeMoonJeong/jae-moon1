@@ -15,7 +15,7 @@ title: Research Career
 ### Doctor of Philosophy - Visiting Ph.D. Candidate, Aero/Astro (2022.08 - 2023.03)
 * Massachusetts Institute of Technology (MIT), United States
   * PI - Prof. Brian L. Wardle
-  * [NECSTLAB](https://mdam.kaist.ac.kr*)
+  * [NECSTLAB](https://mdam.kaist.ac.kr)
 
 ### Master of Science - MS, Mechanical Engineering (2018.09 - 2020.02)
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
