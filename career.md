@@ -10,7 +10,12 @@ title: Research Career
 ### Ph.D. Candidate in Mechanical Engineering
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
   * PI - Prof. Seong Su Kim
+  * https://mdam.kaist.ac.kr/
 
+### Visiting Ph.D. Candidate in Aero/Astro 
+* Massachusetts Institute of Technology (MIT), United States
+  * PI - Prof. Brian L. Wardle
+  * https://necstlab.mit.edu/
 
 ### M.S. in Mechanical Engineering
 * Korea Advanced Institute of Science and Technology (KAIST), Korea
