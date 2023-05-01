@@ -76,11 +76,20 @@ title: Research Career
 
 # Honor and Award
 
+
+* Best Research Award
+  * Issued by Korea Institute of Energy Technology Evaluation and Planning (KETEP) · Oct 2022
+* Oral Presentation Award, First Place
+  * Issued by The 6th International Conference on Active Materials and Soft Mechatronics, Georgia Tech, Atlanta, Georgia, USA · Oct 2022
 * Best Paper Award
-  * Korean Society for Composite Materials 2021 Spring Conference, Jun. 21, 2021
+  * Issued by Korean Society of Precision Engineers (KSPE) 2022 Conference · May 2022
+* Best Paper Award
+  * Issued by Korean Society for Composite Materials 2021 Spring Conference, Jun. 21, 2021
 * Best Presentation Award
-  * 7th KAIST-SJTU-UTokyo Joint Academic Symposium. Oct. 30, 2020
+  * Issued by 7th KAIST-SJTU-UTokyo Joint Academic Symposium. Oct. 30, 2020
 * Best Paper Award
-  * Korean Society for Composite Materials 2020 Spring Conference, Aug. 18, 2020
+  * Issued by Korean Society for Composite Materials 2020 Spring Conference, Aug. 18, 2020
 * 2nd Prize, Capstone design
   * School of Aerospace & Mechanical Engineering, KAU, Sep. 2016 - Aug. 2017
+* Mirae Asset Overseas Exchange Scholarship
+  * Issued by Mirae Asset Park Hyeon Joo Foundation (Aug 2015)
